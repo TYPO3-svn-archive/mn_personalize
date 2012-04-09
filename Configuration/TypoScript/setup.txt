@@ -1,0 +1,11 @@
+# Module configuration
+module.tx_mnpersonalize {
+	persistence {
+		storagePid = {$module.tx_mnpersonalize.persistence.storagePid}
+	}
+	view {
+		templateRootPath = {$module.tx_mnpersonalize.view.templateRootPath}
+		partialRootPath = {$module.tx_mnpersonalize.view.partialRootPath}
+		layoutRootPath = {$module.tx_mnpersonalize.view.layoutRootPath}
+	}
+}

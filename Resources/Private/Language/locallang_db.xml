@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'mn_personalize'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_mnpersonalize_domain_model_filterproperty">Filter Property</label>
+			<label index="tx_mnpersonalize_domain_model_filterproperty.name">Name</label>
+			<label index="tx_mnpersonalize_domain_model_filterproperty.file_path">File Path</label>
+
+			<label index="tx_mnpersonalize_domain_model_filter">Filter</label>
+			<label index="tx_mnpersonalize_domain_model_filter.filter_property">Filter Property</label>
+
+			<label index="tx_mnpersonalize_domain_model_personalizefilter">Personalize Filter</label>
+			<label index="tx_mnpersonalize_domain_model_personalizefilter.filter">Filter</label>
+			<label index="tt_content.tx_extbase_type.Tx_MnPersonalize_PersonalizeFilter">Personalize content PersonalizeFilter</label>
+			
+		</languageKey>
+	</data>
+</T3locallang>

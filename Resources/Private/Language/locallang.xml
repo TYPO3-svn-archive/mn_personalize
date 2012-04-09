@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for the Personalize content extension in the FRONTEND</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_mnpersonalize_domain_model_filterproperty">FilterProperty</label>
+			<label index="tx_mnpersonalize_domain_model_filterproperty.name">name</label>
+			<label index="tx_mnpersonalize_domain_model_filterproperty.file_path">filePath</label>
+			<label index="tx_mnpersonalize_domain_model_filter">Filter</label>
+			<label index="tx_mnpersonalize_domain_model_filter.filter_property">filterProperty</label>
+			<label index="tx_mnpersonalize_domain_model_personalizefilter">PersonalizeFilter</label>
+			<label index="tx_mnpersonalize_domain_model_personalizefilter.filter">filter</label>
+		</languageKey>
+	</data>
+</T3locallang>
